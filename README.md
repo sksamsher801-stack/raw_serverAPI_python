@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Q1: Raw HTTP Notes Server
 
 A small REST-style notes server built with Python's built-in http.server module. Notes are stored in memory while the server is running.
@@ -59,3 +60,6 @@ Notes are kept in memory, so they are erased when the server stops.
 ## Submission
 
 Include server.py, this README, and screenshots showing the endpoint tests and their responses.
+=======
+# raw_serverAPI_python
+>>>>>>> abd5e4d608025f74665fae0ad763ae4087790002
